@@ -6,7 +6,7 @@
 
 🔭 Atualmente trabalho na [Isbrasil](https://isbrasil.info/).
 
-<p> ☕ Visit my <a href="https://www.eduardoluiz.dev/" target="_blank">Portfólio - Em desenvolvimento</a></p>
+<p> ☕ Meu <a href="https://www.eduardoluiz.dev/" target="_blank">Portfólio.</a></p>
 <br />
 
 ---
@@ -14,12 +14,6 @@
 <br />
 
 ## 🚀 Hard Skills
-
-<h3>👍 Base</h3>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<br />
-<br />
 
 <h3>👨‍💻 Stack</h3>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -47,17 +41,9 @@
 <br />
 <br />
 
-<h3>☕ Databases</h3>
+<h3>☕ Banco de dados</h3>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
 <br />
 <br />
-
----
-
-## ⭐ Github Info
-
-<br />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardoluizdev&show_icons=true&include_all_commits=true&theme=dracula&count_private=true)
