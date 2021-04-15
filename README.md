@@ -2,17 +2,16 @@
 
 <br />
 
-<img align='right' src="https://dangarcia-devel.vercel.app/favicon.ico">
-
 💬 Sou desenvolvedor Front-End.
 
 🔭 Atualmente trabalho na [Isbrasil](https://isbrasil.info/).
 
-❤️ .
-
-<p align='center'> ☕ Visit my <a href="https://www.eduardoluiz.dev/" target="_blank">Portfólio - Em desenvolvimento</a></p>
+<p> ☕ Visit my <a href="https://www.eduardoluiz.dev/" target="_blank">Portfólio - Em desenvolvimento</a></p>
+<br />
 
 ---
+
+<br />
 
 ## 🚀 Hard Skills
 
@@ -22,7 +21,7 @@
 <br />
 <br />
 
-<h3>❤ Stack</h3>
+<h3>👨‍💻 Stack</h3>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <br />
@@ -34,15 +33,17 @@
 <br />
 <br />
 
-<h3>🐱‍👤 Bibliotecas</h3>
+<h3>🖖 Bibliotecas / Frameworks JS</h3>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="NextJS"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt=""/></code>
+
 <br />
 <br />
 
-<h3>🖖 Frameworks JS</h3>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="NextJS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue"/></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="NuxtJS"/></code>
+<h3>👌 Testes</h3>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress"/></code>
 <br />
 <br />
 
