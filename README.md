@@ -4,7 +4,7 @@
 
 💬 Sou desenvolvedor Front-End.
 
-🔭 Atualmente trabalho na [Isbrasil](https://isbrasil.info/).
+🔭 Atualmente trabalho na [Taller](https://www.taller.net.br/).
 
 <p> ☕ Meu <a href="https://www.eduardoluiz.dev/" target="_blank">Portfólio.</a></p>
 <br />
