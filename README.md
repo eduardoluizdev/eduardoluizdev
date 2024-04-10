@@ -4,4 +4,4 @@ Sou programador Fullstack com mais de 10 anos de experiência com essas tecnolog
 
 Gosto de construir projetos pessoais e compartilhar conhecimento.
 
-Quer conhecer um pouco mais sobre mim e ver os projetos que já desenvolvi  <a href="https://eduardoluiz.dev" target="_blank">acesse meu portofólio</a>
+Obs.: Atualmente usando mas o gitlab por conta do trabalho atual.
